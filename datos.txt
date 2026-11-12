@@ -1,1 +1,3 @@
-
+Nombre: Lucas Alejandro Gonzalez
+IP Maquina: 2800:2205:c000:146:c36:b3ad:5bee:dec7
+Hora: 11:01
