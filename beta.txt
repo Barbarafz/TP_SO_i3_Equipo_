@@ -1,0 +1,65 @@
+---- DATOS BETA ----
+
+Barbara Fernandez 
+hora: 11:51
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . : 
+   Vínculo: dirección IPv6 local. . . : fe80::4be0:f395:12ce:f2e%20
+   Dirección IPv4. . . . . . . . . . . . . . : 194.262.52.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : 
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : 
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5140:1d1::9aff
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5140:1d1:5fc1:4978:d049:f760
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5140:1d1:7951:f378:ee50:17b4
+   Vínculo: dirección IPv6 local. . . : fe80::2215:c440:9e60:b16d%13
+   Dirección IPv4. . . . . . . . . . . . . . : 194.165.0.121
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2cb:51ff:feff:4210%13
+                                       172.248.0.1
+
+
+--- DATOS ALFA ---
+
+Lucas Alejandro Gonzalez
+Hora: 11:56
+
+Configuraci n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec fico para la conexi n. . : fibertel.com.ar
+   Direcci n IPv6 . . . . . . . . . . : 2800:2205:c000:146::c703
+   Direcci n IPv6 . . . . . . . . . . : 2800:2205:c000:146:b4bf:6467:4894:7d53
+   Direcci n IPv6 temporal. . . . . . : 2800:2205:c000:146:c36:b3ad:5bee:dec7
+   V nculo: direcci n IPv6 local. . . : fe80::3016:9dca:97e8:fd7f%7
+   Direcci n IPv4. . . . . . . . . . . . . . : 199.268.0.231
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::fa08:4fff:fe40:ba31%7
+                                       182.164.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::36fa:6525:55e3:bd5c%9
+   Direcci n IPv4. . . . . . . . . . . . . . : 199.313.6.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
