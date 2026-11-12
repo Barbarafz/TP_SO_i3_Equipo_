@@ -1,3 +1,10 @@
 Nombre: Lucas Alejandro Gonzalez
 IP Maquina: 2800:2205:c000:146:c36:b3ad:5bee:dec7
+<<<<<<< HEAD
 Hora: 11:30
+=======
+Hora: 11:01
+nombre: barbara Fernandez
+IP: 190.31.99.241
+hora: 11:42
+>>>>>>> fe2bef1f8b546023bccb7989b3741f1250db9f74
