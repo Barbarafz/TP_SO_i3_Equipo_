@@ -1,0 +1,19 @@
+A) Queda con todos los cambios que se hicieron tanto en la rama Gonzalez como en la rama Fernandez.
+
+B) Si, pudo ver todos
+
+C) 1- git checkout main
+2- git merge (rama) 
+
+D) Gamma
+
+E) Gamma
+
+F) Gamma
+
+G) 1- git checkout (rama) 
+2- git pull
+3- ipconfig >> beta.txt
+4- git add .
+5- git commit -m (comentario)
+6- git push origin (rama)
